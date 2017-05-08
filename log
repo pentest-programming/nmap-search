@@ -1,0 +1,108 @@
+NMAP-SEARCH : 2017-05-08 21:17:05 :  START
+NMAP-SEARCH : 2017-05-08 21:17:05 :  Running CMD: /usr/bin/nmap -Pn -n -sV --open -p  5432,25,8080,21,22,445,3389,1521,3306,139,80,1433 192.168.1.1 192.168.1.154 -oG -
+NMAP-SEARCH : 2017-05-08 21:17:19 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows 7 - 10 microsoft-ds"
+NMAP-SEARCH : 2017-05-08 21:17:19 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows netbios-ssn"
+NMAP-SEARCH : 2017-05-08 21:17:19 :  Running SearchSploit CMD: /usr/bin/searchsploit "BadBlue 2.7"
+NMAP-SEARCH : 2017-05-08 21:17:19 :  Running SearchSploit CMD: /usr/bin/searchsploit "Dropbear 0.50 (protocol 2.0)"
+NMAP-SEARCH : 2017-05-08 21:17:19 :  STOP
+NMAP-SEARCH : 2017-05-08 21:18:21 :  START
+NMAP-SEARCH : 2017-05-08 21:18:21 :  Running CMD: /usr/bin/nmap -Pn -n -sV --open -p  5432,25,8080,21,22,445,3389,1521,3306,139,80,1433 192.168.1.1 192.168.1.154 -oG -
+NMAP-SEARCH : 2017-05-08 21:18:28 :  START
+NMAP-SEARCH : 2017-05-08 21:18:28 :  Running CMD: /usr/bin/nmap -Pn -n -sV --open -p  5432,25,8080,21,22,445,3389,1521,3306,139,80,1433 192.168.1.154 -oG -
+NMAP-SEARCH : 2017-05-08 21:18:35 :  Running SearchSploit CMD: /usr/bin/searchsploit "BadBlue 2.7"
+NMAP-SEARCH : 2017-05-08 21:18:36 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows netbios-ssn"
+NMAP-SEARCH : 2017-05-08 21:18:36 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows 7 - 10 microsoft-ds"
+NMAP-SEARCH : 2017-05-08 21:18:36 :  STOP
+NMAP-SEARCH : 2017-05-08 21:19:20 :  START
+NMAP-SEARCH : 2017-05-08 21:19:20 :  Running CMD: /usr/bin/nmap -Pn -n -sV --open -p  5432,25,8080,21,22,445,3389,1521,3306,139,80,1433 192.168.1.154 -oG -
+NMAP-SEARCH : 2017-05-08 21:19:28 :  Running SearchSploit CMD: /usr/bin/searchsploit "BadBlue 2.7"
+NMAP-SEARCH : 2017-05-08 21:19:28 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows netbios-ssn"
+NMAP-SEARCH : 2017-05-08 21:19:28 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows 7 - 10 microsoft-ds"
+NMAP-SEARCH : 2017-05-08 21:19:28 :  STOP
+NMAP-SEARCH : 2017-05-08 21:19:38 :  START
+NMAP-SEARCH : 2017-05-08 21:19:38 :  Running CMD: /usr/bin/nmap -Pn -n -sV --open -p  5432,25,8080,21,22,445,3389,1521,3306,139,80,1433 192.168.1.154 -oG -
+NMAP-SEARCH : 2017-05-08 21:19:45 :  Running SearchSploit CMD: /usr/bin/searchsploit "BadBlue 2.7"
+NMAP-SEARCH : 2017-05-08 21:19:45 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows netbios-ssn"
+NMAP-SEARCH : 2017-05-08 21:19:45 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows 7 - 10 microsoft-ds"
+NMAP-SEARCH : 2017-05-08 21:19:45 :  STOP
+NMAP-SEARCH : 2017-05-08 21:21:16 :  START
+NMAP-SEARCH : 2017-05-08 21:21:16 :  Running CMD: /usr/bin/nmap -Pn -n -sV --open -p  5432,25,8080,21,22,445,3389,1521,3306,139,80,1433 192.168.1.154 -oG -
+NMAP-SEARCH : 2017-05-08 21:21:23 :  Running SearchSploit CMD: /usr/bin/searchsploit "BadBlue 2.7"
+NMAP-SEARCH : 2017-05-08 21:21:23 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows netbios-ssn"
+NMAP-SEARCH : 2017-05-08 21:21:23 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows 7 - 10 microsoft-ds"
+NMAP-SEARCH : 2017-05-08 21:21:24 :  STOP
+NMAP-SEARCH : 2017-05-08 21:21:52 :  START
+NMAP-SEARCH : 2017-05-08 21:21:52 :  Running CMD: /usr/bin/nmap -Pn -n -sV --open -p  5432,25,8080,21,22,445,3389,1521,3306,139,80,1433 192.168.1.154 -oG -
+NMAP-SEARCH : 2017-05-08 21:21:59 :  Running SearchSploit CMD: /usr/bin/searchsploit "BadBlue 2.7"
+NMAP-SEARCH : 2017-05-08 21:21:59 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows netbios-ssn"
+NMAP-SEARCH : 2017-05-08 21:21:59 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows 7 - 10 microsoft-ds"
+NMAP-SEARCH : 2017-05-08 21:21:59 :  STOP
+NMAP-SEARCH : 2017-05-08 23:55:14 :  START
+NMAP-SEARCH : 2017-05-08 23:55:14 :  Running CMD: /usr/bin/nmap -Pn -n -sV --open -p  5432,25,8080,21,22,445,3389,1521,3306,139,80,1433 192.168.1.154 -oG -
+NMAP-SEARCH : 2017-05-08 23:55:20 :  STOP
+NMAP-SEARCH : 2017-05-08 23:55:25 :  START
+NMAP-SEARCH : 2017-05-08 23:55:25 :  Running CMD: /usr/bin/nmap -Pn -n -sV --open -p  5432,25,8080,21,22,445,3389,1521,3306,139,80,1433 192.168.1.154 -oG -
+NMAP-SEARCH : 2017-05-08 23:55:32 :  Running SearchSploit CMD: /usr/bin/searchsploit "BadBlue 2.7"
+NMAP-SEARCH : 2017-05-08 23:55:32 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows netbios-ssn"
+NMAP-SEARCH : 2017-05-08 23:55:33 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows 7 - 10 microsoft-ds"
+NMAP-SEARCH : 2017-05-08 23:55:33 :  STOP
+NMAP-SEARCH : 2017-05-08 23:56:04 :  START
+NMAP-SEARCH : 2017-05-08 23:56:04 :  Running CMD: /usr/bin/nmap -Pn -n -sV --open -p  5432,25,8080,21,22,445,3389,1521,3306,139,80,1433 192.168.1.154 -oG -
+NMAP-SEARCH : 2017-05-08 23:56:11 :  Running SearchSploit CMD: /usr/bin/searchsploit "BadBlue 2.7"
+NMAP-SEARCH : 2017-05-08 23:56:11 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows netbios-ssn"
+NMAP-SEARCH : 2017-05-08 23:56:11 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows 7 - 10 microsoft-ds"
+NMAP-SEARCH : 2017-05-08 23:56:11 :  STOP
+NMAP-SEARCH : 2017-05-08 23:58:14 :  START
+NMAP-SEARCH : 2017-05-08 23:58:14 :  Running CMD: /usr/bin/nmap -Pn -n -sV --open -p  5432,25,8080,21,22,445,3389,1521,3306,139,80,1433 192.168.1.154 -oG -
+NMAP-SEARCH : 2017-05-08 23:58:22 :  Running SearchSploit CMD: /usr/bin/searchsploit "BadBlue 2.7"
+NMAP-SEARCH : 2017-05-08 23:58:22 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows netbios-ssn"
+NMAP-SEARCH : 2017-05-08 23:58:22 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows 7 - 10 microsoft-ds"
+NMAP-SEARCH : 2017-05-08 23:58:22 :  STOP
+NMAP-SEARCH : 2017-05-08 23:59:07 :  START
+NMAP-SEARCH : 2017-05-08 23:59:07 :  Running CMD: /usr/bin/nmap -Pn -n -sV --open -p  5432,25,8080,21,22,445,3389,1521,3306,139,80,1433 192.168.1.154 -oG -
+NMAP-SEARCH : 2017-05-08 23:59:14 :  Running SearchSploit CMD: /usr/bin/searchsploit "BadBlue 2.7"
+NMAP-SEARCH : 2017-05-08 23:59:14 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows netbios-ssn"
+NMAP-SEARCH : 2017-05-08 23:59:15 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows 7 - 10 microsoft-ds"
+NMAP-SEARCH : 2017-05-08 23:59:15 :  STOP
+NMAP-SEARCH : 2017-05-08 23:59:56 :  START
+NMAP-SEARCH : 2017-05-08 23:59:56 :  Running CMD: /usr/bin/nmap -Pn -n -sV --open -p  5432,25,8080,21,22,445,3389,1521,3306,139,80,1433 192.168.1.154 -oG -
+NMAP-SEARCH : 2017-05-09 00:00:03 :  Running SearchSploit CMD: /usr/bin/searchsploit "BadBlue 2.7"
+NMAP-SEARCH : 2017-05-09 00:00:03 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows netbios-ssn"
+NMAP-SEARCH : 2017-05-09 00:00:04 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows 7 - 10 microsoft-ds"
+NMAP-SEARCH : 2017-05-09 00:00:04 :  STOP
+NMAP-SEARCH : 2017-05-09 00:02:35 :  START
+NMAP-SEARCH : 2017-05-09 00:02:35 :  Running CMD: /usr/bin/nmap -Pn -n -sV --open -p  5432,25,8080,21,22,445,3389,1521,3306,139,80,1433 192.168.1.154 -oG -
+NMAP-SEARCH : 2017-05-09 00:02:43 :  Running SearchSploit CMD: /usr/bin/searchsploit "BadBlue 2.7"
+NMAP-SEARCH : 2017-05-09 00:02:43 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows netbios-ssn"
+NMAP-SEARCH : 2017-05-09 00:02:43 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows 7 - 10 microsoft-ds"
+NMAP-SEARCH : 2017-05-09 00:02:43 :  STOP
+NMAP-SEARCH : 2017-05-09 00:10:59 :  START
+NMAP-SEARCH : 2017-05-09 00:10:59 :  Running CMD: /usr/bin/nmap -Pn -n -sV --open -p  5432,25,8080,21,22,445,3389,1521,3306,139,80,1433 192.168.1.154 -oG -
+NMAP-SEARCH : 2017-05-09 00:11:07 :  Running SearchSploit CMD: /usr/bin/searchsploit "BadBlue 2.7"
+NMAP-SEARCH : 2017-05-09 00:11:07 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows netbios-ssn"
+NMAP-SEARCH : 2017-05-09 00:11:07 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows 7 - 10 microsoft-ds"
+NMAP-SEARCH : 2017-05-09 00:11:07 :  STOP
+NMAP-SEARCH : 2017-05-09 00:11:52 :  START
+NMAP-SEARCH : 2017-05-09 00:11:52 :  Running CMD: /usr/bin/nmap -Pn -n -sV --open -p  5432,25,8080,21,22,445,3389,1521,3306,139,80,1433 192.168.1.154 -oG -
+NMAP-SEARCH : 2017-05-09 00:11:59 :  Running SearchSploit CMD: /usr/bin/searchsploit "BadBlue 2.7"
+NMAP-SEARCH : 2017-05-09 00:11:59 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows netbios-ssn"
+NMAP-SEARCH : 2017-05-09 00:11:59 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows 7 - 10 microsoft-ds"
+NMAP-SEARCH : 2017-05-09 00:11:59 :  STOP
+NMAP-SEARCH : 2017-05-09 00:13:06 :  START
+NMAP-SEARCH : 2017-05-09 00:13:06 :  Running CMD: /usr/bin/nmap -Pn -n -sV --open -p  5432,25,8080,21,22,445,3389,1521,3306,139,80,1433 192.168.1.154 -oG -
+NMAP-SEARCH : 2017-05-09 00:13:14 :  Running SearchSploit CMD: /usr/bin/searchsploit "BadBlue 2.7"
+NMAP-SEARCH : 2017-05-09 00:13:14 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows netbios-ssn"
+NMAP-SEARCH : 2017-05-09 00:13:14 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows 7 - 10 microsoft-ds"
+NMAP-SEARCH : 2017-05-09 00:13:14 :  STOP
+NMAP-SEARCH : 2017-05-09 00:13:36 :  START
+NMAP-SEARCH : 2017-05-09 00:13:36 :  Running CMD: /usr/bin/nmap -Pn -n -sV --open -p  5432,25,8080,21,22,445,3389,1521,3306,139,80,1433 192.168.1.154 -oG -
+NMAP-SEARCH : 2017-05-09 00:13:43 :  Running SearchSploit CMD: /usr/bin/searchsploit "BadBlue 2.7"
+NMAP-SEARCH : 2017-05-09 00:13:43 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows netbios-ssn"
+NMAP-SEARCH : 2017-05-09 00:13:43 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows 7 - 10 microsoft-ds"
+NMAP-SEARCH : 2017-05-09 00:13:44 :  STOP
+NMAP-SEARCH : 2017-05-09 00:13:59 :  START
+NMAP-SEARCH : 2017-05-09 00:13:59 :  Running CMD: /usr/bin/nmap -Pn -n -sV --open -p  5432,25,8080,21,22,445,3389,1521,3306,139,80,1433 192.168.1.154 -oG -
+NMAP-SEARCH : 2017-05-09 00:14:06 :  Running SearchSploit CMD: /usr/bin/searchsploit "BadBlue 2.7"
+NMAP-SEARCH : 2017-05-09 00:14:06 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows netbios-ssn"
+NMAP-SEARCH : 2017-05-09 00:14:06 :  Running SearchSploit CMD: /usr/bin/searchsploit "Microsoft Windows 7 - 10 microsoft-ds"
+NMAP-SEARCH : 2017-05-09 00:14:06 :  STOP
