@@ -18,7 +18,12 @@ class Nmap(object):
 
 		self.__result = { }
 
-		self.__searchsploit = SearchSploit(logger)		
+		try:
+			self.__searchsploit = SearchSploit(logger)		
+		except Exception, err:
+			raise NmapSearchException(str(err))
+
+
 		self.__logger = logger
 
 		self.__nmap = "/usr/bin/nmap"

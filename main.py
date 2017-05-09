@@ -38,8 +38,11 @@ class NmapSearch(object):
 		
 		
 		self.__port_list = ConfigParser._parser(self.__config_file)
-		self.__nmap = Nmap(self.__logger)
 
+		try:
+			self.__nmap = Nmap(self.__logger)
+		except Exception, err:
+			self.__logger._logging(str(err), True)
 
 		
 		try:

@@ -19,7 +19,6 @@ class SearchSploit(object):
 			raise NmapSearchException("{0} File Does't Exists".format(self.__searchsploit_path))
 		
 
-
 	def _run(self, service):
 
 		result = ""
