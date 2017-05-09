@@ -3,6 +3,7 @@
 
 import os
 import sys
+import signal
 import argparse
 
 from lib.nmap import Nmap
@@ -29,6 +30,7 @@ class NmapSearch(object):
 		self.__logfile = args.logfile
 		self.__config_file = args.config
 
+		signal.signal(signal.SIGINT, self.__signal_handler)		
 
 		self.__logger = Logger(self.__logfile)
 
@@ -56,6 +58,11 @@ class NmapSearch(object):
 	def _run(self):
 
 		self.__nmap._port_scan(self.__ping, self.__port_list, self.__network)
+
+
+	def __signal_handler(self, signal, frame):
+        	print('See You - Nmap-Search ...')
+        	sys.exit(37)
 
 ##
 ### Main ...
